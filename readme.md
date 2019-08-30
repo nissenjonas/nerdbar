@@ -21,6 +21,3 @@
 
     # new app
     mix phx.new --no-webpack --no-ecto
-
-# TODO
-* Setup docker compose file and docker
